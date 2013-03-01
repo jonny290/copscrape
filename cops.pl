@@ -1,22 +1,6 @@
-#!/usr/bin/perl 
-#
-#  # This is a common method of declaring package scoped variables before the
-#  # 'our' keyword was introduced.  You should pick one form or the other, but
-#  # generally speaking, the our $var is preferred in new code.
-#
-#  #use vars qw($VERSION %IRSSI);
-#
-#  use Irssi;
-#
-#  our $VERSION = '1.00';
-#  our %IRSSI = (
-#      authors     => 'Author Name(s)',
-#      contact     => 'author_email@example.com another_author@example.com',
-#      name        => 'Script Title',
-#      description => 'Longer script description, '
-#                  .  'maybe on multiple lines',
-#      license     => 'Public Domain',
-#  );
+#Jonny290's Po-Lice Parser
+#JONNY290 JAN 2013
+#word to my homies
 #
 #
 use Data::Dumper;
